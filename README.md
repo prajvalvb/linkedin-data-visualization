@@ -24,6 +24,12 @@ With professional networks like LinkedIn acting as digital resumes, this project
 | `Data_Visualization_Dashboard.twbx` | Tableau packaged workbook with interactive dashboards |
 | `screencast` | Demonstration of whole dashborad by me |
 
+📥 How to Access the Files
+⚠️ Note: GitHub does not preview Excel, Word, Tableau, or video files directly.
+To view or download them:
+Click the filename (e.g., DataVisualization_Report.docx)
+Then click “View raw” or the Download icon (📥) on the top right
+
 ## 🛠️ Tools Used
 
 - **Tableau** – for interactive dashboard development  
